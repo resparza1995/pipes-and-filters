@@ -6,9 +6,9 @@ The idea is to simulate the behavior of filters and pipes in Linux.
 ## How to run ?
 1. Compiled files are in /bin. 
 2. **type** "File on which to run the filter" | **java** "filter"
+3. An example on Windows CMD
 
-An example on Windows CMD
-![alt text](https://github.com/fytta/pipes-and-filters/blob/master/Untitled.png?raw=true)
+![alt text](https://github.com/fytta/pipes-and-filters/blob/master/Untitled.png)
 
 ## Filter 1
 Calculates the number of chars, white spaces, words and lines ‘from a file’.
